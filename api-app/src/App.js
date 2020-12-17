@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>mongodb+srv://Jordanb22:<Pickles7(:>@cluster0.5agus.mongodb.net/<api-app>?retryWrites=true&w=majority
+</code> and save to reload.
         </p>
         <a
           className="App-link"
