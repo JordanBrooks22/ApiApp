@@ -1,7 +1,7 @@
 {
   "name": "apiproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "MongoDBAtlasSetupTutorial",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.3",
     "mongoose": "^5.11.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanBrooks22/ApiApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JordanBrooks22/ApiApp/issues"
+  },
+  "homepage": "https://github.com/JordanBrooks22/ApiApp#readme"
 }
